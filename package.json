@@ -16,7 +16,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Malo Widerspach <malo.dewiderspach@gmail.com> (https://mowh.fr)",
+  "author": "Paul-Antoine Soulhiard <contact@p-soulhiard.fr> (https://p-soulhiard.fr)",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.6.0",
